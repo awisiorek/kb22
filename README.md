@@ -10,7 +10,7 @@
 Die Veranstaltung wird voraussichtlich in Präsenz (Raum B001) stattfinden (evtl. auch als hybride Veranstaltung, also mit paralleler Übertragung per Zoom).
 
 
-## Termine:
+## Termin:
 
 - Vorlesung: Do 14:15-15:45 (Axel Wisiorek), Raum: B001
 
