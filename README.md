@@ -18,7 +18,8 @@ Die Veranstaltung wird voraussichtlich in Präsenz (Raum B001) stattfinden (evtl
 
 ## Moodle-Kursseite:
 
-**folgt**
+https://moodle.lmu.de/course/view.php?id=21638
+
 
 - Die Anmeldung ist verpflichtend; Moodle dient als Kommunikations- und Verwaltungsplattform.
 - **Einschreibeschlüssel wird per LSF-Rundmail bekanntgegeben** (ebenso ggf. der Zoom-Link)
