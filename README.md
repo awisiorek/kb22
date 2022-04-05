@@ -39,7 +39,7 @@ Die Veranstaltung wird voraussichtlich in Präsenz (Raum B001) stattfinden (evtl
 |  Do, 09.06.2022 |  5. | **Unicode und Zeichenkodierungen (*Shell*)** |
 |  Do, 16.06.2022 | - | *(Feiertag)*  |
 |  Do, 23.06.2022 |  6. | **Semistrukturierte Daten und XML-Korpora (*Python*)** |
-|  Do, 30.06.2022 |  7. | **XML-Korpora - Entitäten und Dokumenttypdefinitionen (*Python*)** |
+|  Do, 30.06.2022 |  7. | **XML-Korpora: Entitäten und Dokumenttypdefinitionen (*Python*)** |
 |  Do, 07.07.2022 |  8. | **Erzeugen eigener POS-Tagger (*Python*)** |
 |  Do, 14.07.2022 |  9. | **Korpus-APIs und Webcrawler (*Python*)** |
 |  Do, 21.07.2022 |   | **KLAUSUR** |
