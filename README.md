@@ -34,7 +34,7 @@ https://moodle.lmu.de/course/view.php?id=21638
 |  Do, 28.04.2022 |  **0** | ***Shell*-Grundlagen** |
 |  Do, 05.05.2022 |  **1** | **Korpusverarbeitung mit *Shell*-Skripten** |
 |  Do, 12.05.2022 |  **2** | **Korpusverarbeitung mit *Python*: *NLTK*, *pandas*** |
-|  Do, 19.05.2022 |  **3** | **Korpora als Trainingsdaten für NLP-Anwendungen: *scikit-learn*, *stanza*, *spaCy*** |
+|  Do, 19.05.2022 |  **3** | **Korpusannotation und Korpusanalyse mit *scikit-learn*, *stanza*, *spaCy*** |
 |  Do, 26.05.2022 |  - | *(Feiertag)*  |
 |  Do, 02.06.2022 |  **4** | **Textmanipulation und -Suche mit der *Shell*: *sed* und *awk*** |
 |  Do, 09.06.2022 |  **5** | **Unicode und Zeichenkodierungen mit der *Shell*** |
