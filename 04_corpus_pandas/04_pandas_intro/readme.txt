@@ -1,0 +1,3 @@
+- diese Notebooks bietet eine Übersicht über die verschiedenen Methoden, die die pandas-Datenanalyse-Library zur Verfügung stellt.
+- sie dienen primär als Referenz.
+- korpusbezogene Anwendungen der Methoden finden Sie im Haupt-Notebook.
