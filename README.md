@@ -42,9 +42,9 @@ https://moodle.lmu.de/course/view.php?id=21638
 |  Do, 23.06.2022 |  **6** | **Textmanipulation und Encoding mit der *Shell*:  *sed*, *awk*, *recode*, *uconv*** |
 |  Do, 30.06.2022 |  **7** | **Semistrukturierte Daten und XML-Korpora: *etree*, *Beautiful Soup*** |
 |  Do, 07.07.2022 |  **8** | **Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger*** |
-|  Do, 14.07.2022 |  **9** | **Korpus-APIs (DTA) und Webcrawler** |
+|  Do, 14.07.2022 |   | ***KLAUSURVORBEREITUNG*** |
 |  Do, 21.07.2022 |   | **KLAUSUR** |
-|  Do, 28.07.2022 |   | *(Nachbesprechung)* |
+|  Do, 28.07.2022 |  **9** | **Korpus-APIs (DTA) und Webcrawler** |
 
 
 ## Klausur:
