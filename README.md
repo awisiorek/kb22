@@ -36,10 +36,10 @@ https://moodle.lmu.de/course/view.php?id=21638
 |  Do, 12.05.2022 |  **2** | **Korpusverarbeitung mit *Python*: *NLTK*** |
 |  Do, 19.05.2022 |  **3** | **Korpusannotation mit *stanza* und *spaCy*** |
 |  Do, 26.05.2022 |  - | *(Feiertag)*  |
-|  Do, 02.06.2022 |  **4** | **Korpusanalyse mit *pandas* ** |
-|  Do, 09.06.2022 |  **5** | **Korpusanalyse *scikit-learn* ** |
+|  Do, 02.06.2022 |  **4** | **Korpusanalyse mit *pandas*** |
+|  Do, 09.06.2022 |  **5** | **Korpusanalyse mit *scikit-learn*** |
 |  Do, 16.06.2022 | - | *(Feiertag)*  |
-|  Do, 23.06.2022 |  **6** | **Textmanipulation und Encoding mit der *Shell*:  *sed* , *awk*, *recode*, *uconv* ** |
+|  Do, 23.06.2022 |  **6** | **Textmanipulation und Encoding mit der *Shell*:  *sed* , *awk*, *recode*, *uconv*** |
 |  Do, 30.06.2022 |  **7** | **Semistrukturierte Daten und XML-Korpora: *etree*, *Beautiful Soup*** |
 |  Do, 07.07.2022 |  **8** | **Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger*** |
 |  Do, 14.07.2022 |  **9** | **Korpus-APIs (DTA) und Webcrawler** |
