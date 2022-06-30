@@ -1,0 +1,6 @@
+<!ELEMENT programmsammlung (programm+)>
+<!ELEMENT programm ( name,sprache, code,autor)>
+<!ELEMENT sprache (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>

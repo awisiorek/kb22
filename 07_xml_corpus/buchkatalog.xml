@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Buchkatalog -->
+<buchkatalog>
+
+  <buch>
+    <titel>Faust I</titel>
+    <autor>
+      <vorname>Johann Wolfgang</vorname>
+      <nachname>von Goethe</nachname>
+    </autor>
+    <preis>4,95</preis>
+    <verlag>Reclam</verlag>
+  </buch>
+
+  <buch>
+    <titel>Maria Stuart: Trauerspiel in fünf Aufzügen</titel>
+    <autor>
+      <vorname>Friedrich</vorname>
+      <nachname>Schiller</nachname>
+    </autor>
+    <preis>5,50</preis>
+    <verlag>Suhrkamp</verlag>
+  </buch>
+
+  <buch>
+    <titel>Buddenbrooks: Verfall einer Familie</titel>
+    <autor>
+      <vorname>Thomas</vorname>
+      <nachname>Mann</nachname>
+    </autor>
+    <preis>12,00</preis>
+    <verlag>Fischer</verlag>
+  </buch>
+
+  <buch>
+    <titel>Treffpunkt im Unendlichen</titel>
+    <autor>
+      <vorname>Klaus</vorname>
+      <nachname>Mann</nachname>
+    </autor>
+    <preis>9,99</preis>
+    <verlag>Rowohlt</verlag>
+  </buch>
+
+</buchkatalog>

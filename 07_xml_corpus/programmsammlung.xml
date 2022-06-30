@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmsammlung>
+
+	<programm>
+		<name>simple_loop.py</name>
+		<sprache>Python</sprache>
+		<code>for p in persons:
+			print(p.name + " " + p.age)
+		</code>
+		<autor>Jane Doe</autor>
+	</programm>
+	
+	<programm>
+		<name>tier.java</name>
+		<sprache>Java</sprache>
+		<code>public class Tier{
+		private String art;
+		private String name;
+		
+		public Tier(String art, String name){
+			this.name = name;
+			this.art = art; 
+		}
+		</code>
+		<autor>John Doe</autor>
+	</programm>
+	
+</programmsammlung>
