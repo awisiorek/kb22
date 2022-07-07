@@ -56,6 +56,8 @@
 
 - XML-Syntax: Elemente, Attribute, Entitäten
 
+- Namespaces
+
 - Download von Korpusfiles: requests, urllib
 
 - Korpus-Formate: TEI-XML, TCF-XML
