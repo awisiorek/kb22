@@ -44,7 +44,7 @@ https://moodle.lmu.de/course/view.php?id=21638
 |  Do, 07.07.2022 |  **7.2** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
 |  Do, 14.07.2022 |   | ***KLAUSURVORBEREITUNG*** |
 |  Do, 21.07.2022 |   | **KLAUSUR** |
-|  Do, 28.07.2022 |  **8+9** | **Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger***, **Korpus-APIs (DTA) und Webcrawler** |
+|  Do, 28.07.2022 |  **8+9** | **8. Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger*** + **9. Korpus-APIs (DTA) und Webcrawler** |
 
 
 ## Klausur:
