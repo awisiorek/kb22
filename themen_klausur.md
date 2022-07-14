@@ -62,9 +62,10 @@
 
 - Korpus-Formate: TEI-XML, TCF-XML
 
-## 8. Erzeugung eigener Tagger
-- Mapping verschiedener Tagsets
 
-- Training und Serialisierung/Speicherung eigener Tagger mit NLTK-Elternklasse
+## (8. Erzeugung eigener Tagger) *nicht mehr klausurrelevant*
+- (Mapping verschiedener Tagsets)
 
-- Verknüpfung von Taggern über Backoff-Tagger
+- (Training und Serialisierung/Speicherung eigener Tagger mit NLTK-Elternklasse)
+
+- (Verknüpfung von Taggern über Backoff-Tagger)
