@@ -37,9 +37,9 @@
 
 - CountVectorizer, TfidfVectorizer
 
-- Clustering, Topic-Modeling
+- (Clustering, Topic-Modeling)
 
-- Dimensionsreduktion, Scaling
+- (Dimensionsreduktion, Scaling)
 
 ## 6. Unicode und Zeichenkodierung 
 - Kodierungen: ASCII, Latin/ISO-8859, UTF8
